@@ -1,6 +1,6 @@
 
 <div align="center">
-  Welcome to hyeonseo's GitHub!🍀
+  <h2>Welcome to hyeonseo's GitHub!🍀</h2>
 </div>
 
 <br>
