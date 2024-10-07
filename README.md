@@ -2,7 +2,11 @@
 <div align="center">
   <h2>Welcome to hyeonseo's GitHub!🍀</h2>
 </div>
+
+
 <br>
+
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -19,6 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo1202&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@hyeondooori_">
